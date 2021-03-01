@@ -1,5 +1,5 @@
 # SARS-CoV-2 Simulation code
-This is code runs a simulation of an epidemic. The simulation uses an SIRVD model that models 5 categories of people in an epidemic:
+This code runs a simulation of an epidemic. The simulation uses an SIRVD model that models 5 categories of people in an epidemic:
 - Susceptible People: Number of people who are not but can be infected with the virus 
 - Infected: Number of people who are infected with the virus
 - Recovered: Number of people who have have been infected and survived
